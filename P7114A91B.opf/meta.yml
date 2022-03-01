@@ -1,0 +1,213 @@
+id: P7114A91B
+initial_creation_type: input
+source_metadata:
+  title: 'Candrakīrti: Madhyamakāvatāra'
+  language: en
+  volumes:
+    09126b41fcf44ef6a25d0c16f99a4a74:
+      title: CIII_Conclusion
+      base_file: CIII_Conclusion.txt
+      work_id: W9AA2446A
+    9a495b282e94428cbac279387df1a7e8:
+      title: CIII_Dependent arising
+      base_file: CIII_Dependent arising.txt
+      work_id: W464FADBC
+    f265718ec9804d9695c1cdeb87e0eb8c:
+      title: CIII_Mind-only
+      base_file: CIII_Mind-only.txt
+      work_id: W414BD817
+    984067b09cb5406199d82213c0454da7:
+      title: CIII_Production from both
+      base_file: CIII_Production from both.txt
+      work_id: WFE8E7D4C
+    be685c52eb374c49ab3280d67da3205a:
+      title: CIII_Self of phenomena
+      base_file: CIII_Self of phenomena.txt
+      work_id: WB254666E
+    cfd747f002bf41d48f4cd8c3cd11f1fe:
+      title: CIII_The two truths
+      base_file: CIII_The two truths.txt
+      work_id: W00E696D4
+    53af96b2cd2b463c9c7ef18f697ea6dd:
+      title: CIII_Verse 6.1-10
+      base_file: CIII_Verse 6.1-10.txt
+      work_id: W20C323C3
+    3309236687cd43e8a9961cd134126058:
+      title: CIII_Verse 6.101-110
+      base_file: CIII_Verse 6.101-110.txt
+      work_id: W7A805BC0
+    511e239da10b46b7b351aa6d7c6bd0d1:
+      title: CIII_Verse 6.11-20
+      base_file: CIII_Verse 6.11-20.txt
+      work_id: WB72C4482
+    c92566a7ed4749c78d2e8e22fd395224:
+      title: CIII_Verse 6.110-120
+      base_file: CIII_Verse 6.110-120.txt
+      work_id: W8E0A8895
+    2201a186a74845ca9cc8b53dff46b8e8:
+      title: CIII_Verse 6.121-130
+      base_file: CIII_Verse 6.121-130.txt
+      work_id: W4A487CC5
+    1d462df278454af79798397db333ba8d:
+      title: CIII_Verse 6.131-140
+      base_file: CIII_Verse 6.131-140.txt
+      work_id: W04224C75
+    a16876b6c35f4ad8a8fe687f244c7605:
+      title: CIII_Verse 6.141-150
+      base_file: CIII_Verse 6.141-150.txt
+      work_id: W4ECCC4DB
+    0d1ff51ff4824a17868e8981c5f4be58:
+      title: CIII_Verse 6.151-160
+      base_file: CIII_Verse 6.151-160.txt
+      work_id: W403D2642
+    6d1d0a3171f2447c9c7de468835e2268:
+      title: CIII_Verse 6.161-170
+      base_file: CIII_Verse 6.161-170.txt
+      work_id: WE7AC4B8B
+    3df699faffef41419e98288897d3711f:
+      title: CIII_Verse 6.171-180
+      base_file: CIII_Verse 6.171-180.txt
+      work_id: WEE71C47C
+    be0dbe3e091143d1a96b32fafb2c0417:
+      title: CIII_Verse 6.181-190
+      base_file: CIII_Verse 6.181-190.txt
+      work_id: W27872FD4
+    805b868487504d3b8f877dd75feee7b4:
+      title: CIII_Verse 6.191-200
+      base_file: CIII_Verse 6.191-200.txt
+      work_id: W142F2CFC
+    070972c55489450b946f26cd1472821c:
+      title: CIII_Verse 6.201-210
+      base_file: CIII_Verse 6.201-210.txt
+      work_id: W702FE0E7
+    08c92443ac7c44a0b2dc5979e7fdf86d:
+      title: CIII_Verse 6.21-30
+      base_file: CIII_Verse 6.21-30.txt
+      work_id: W11EDA271
+    87f727462b74449086b681e42b027a7d:
+      title: CIII_Verse 6.211-220
+      base_file: CIII_Verse 6.211-220.txt
+      work_id: W248F6CA8
+    221ca29205b94970bc59208337efafed:
+      title: CIII_Verse 6.221-226
+      base_file: CIII_Verse 6.221-226.txt
+      work_id: WE29FC9CB
+    abd5e6484de147d795693067e92284bb:
+      title: CIII_Verse 6.31-40
+      base_file: CIII_Verse 6.31-40.txt
+      work_id: WD3F81BC3
+    95c8ef7a3ab04ae8821e6d4a4135653e:
+      title: CIII_Verse 6.41-50
+      base_file: CIII_Verse 6.41-50.txt
+      work_id: W5C86EFA1
+    67e4f6436b7f408bab9fc3aea35d58b5:
+      title: CIII_Verse 6.51-60
+      base_file: CIII_Verse 6.51-60.txt
+      work_id: W64255687
+    bf12b6c18a3a4b5e977086551f8fbce2:
+      title: CIII_Verse 6.61-70
+      base_file: CIII_Verse 6.61-70.txt
+      work_id: WD4C41CD7
+    ed30cdcb640148da9540bf932a66dc85:
+      title: CIII_Verse 6.71-80
+      base_file: CIII_Verse 6.71-80.txt
+      work_id: W009CD280
+    78e28d52d9624d3297c27b09e57fe4ea:
+      title: CIII_Verse 6.81-90
+      base_file: CIII_Verse 6.81-90.txt
+      work_id: WFF97F16B
+    12aebc7167b543fcbc470f2b119fc487:
+      title: CIII_Verse 6.91-100
+      base_file: CIII_Verse 6.91-100.txt
+      work_id: W4002FB60
+    aa7724199f4e4b9cbe493c31b0053bd9:
+      title: CII_Verse 3.1-10
+      base_file: CII_Verse 3.1-10.txt
+      work_id: W52F078C4
+    364e14d9ccda49b1a28ffce290f3a4f7:
+      title: CII_Verse 3.11-13
+      base_file: CII_Verse 3.11-13.txt
+      work_id: WA1DF0994
+    5d5e5ae717784f439e0f67710427aab5:
+      title: CIV_Colophon
+      base_file: CIV_Colophon.txt
+      work_id: W3C7847A1
+    241d6836371d4276a716ab93e937e60e:
+      title: CIV_Conclusion
+      base_file: CIV_Conclusion.txt
+      work_id: W958C7FEA
+    a4f48f3726c14194a5966a1af07b41b0:
+      title: CIV_Verse 11.1-10
+      base_file: CIV_Verse 11.1-10.txt
+      work_id: W22729894
+    c3693ee9b8ca40aaa18cd795973b1667:
+      title: CIV_Verse 11.11-20
+      base_file: CIV_Verse 11.11-20.txt
+      work_id: W9CAECA8F
+    80fda250d554404da41f94b6d02045b9:
+      title: CIV_Verse 11.21-30
+      base_file: CIV_Verse 11.21-30.txt
+      work_id: WBCE445F4
+    09fea44d2cbb4f1fb6846d048110f3fe:
+      title: CIV_Verse 11.31-40
+      base_file: CIV_Verse 11.31-40.txt
+      work_id: W44A3FEAB
+    ebd0a5c62bb247868c196dd351b215e7:
+      title: CIV_Verse 11.41-50
+      base_file: CIV_Verse 11.41-50.txt
+      work_id: W59E994E4
+    9814190b48224e3ebbf68d95aa45f526:
+      title: CIV_Verse 11.51-56
+      base_file: CIV_Verse 11.51-56.txt
+      work_id: WB2113EF2
+    cf6ab502b9e74543b81e3a95577cd783:
+      title: CI_Verse 1.1-10
+      base_file: CI_Verse 1.1-10.txt
+      work_id: W16FD80F8
+    177f1bd7887d4821888ff287f0f4a7dd:
+      title: CI_Verse 1.11-17
+      base_file: CI_Verse 1.11-17.txt
+      work_id: W3D4AF7AF
+    4121ab0399844971adebb35eb2b1dd1e:
+      title: 'Chapter 10: Dharmameghā'
+      base_file: 'Chapter 10: Dharmameghā.txt'
+      work_id: W68BB9CA9
+    ce19bfb843664c14be16ee20988600dd:
+      title: 'Chapter 2: Vimalā'
+      base_file: 'Chapter 2: Vimalā.txt'
+      work_id: WBE39E449
+    18125495a86241e8975685a27d03538b:
+      title: 'Chapter 4: Arciṣmatī'
+      base_file: 'Chapter 4: Arciṣmatī.txt'
+      work_id: W6B949683
+    6208b03ddacd4db5bbe225dfcee80efa:
+      title: 'Chapter 5: Sudurjayā'
+      base_file: 'Chapter 5: Sudurjayā.txt'
+      work_id: W58F829F2
+    4900d53f1aa744d5a03397fe909a5d12:
+      title: 'Chapter 7: Dūraṃgamā'
+      base_file: 'Chapter 7: Dūraṃgamā.txt'
+      work_id: W561C30D4
+    95c6e6db8bbb4535bd9039078fdcad3b:
+      title: 'Chapter 8: Acalā'
+      base_file: 'Chapter 8: Acalā.txt'
+      work_id: WA0C75097
+    e48c306a3e144d7383ce8a6bfa27cd11:
+      title: 'Chapter 9: Sādhumatī'
+      base_file: 'Chapter 9: Sādhumatī.txt'
+      work_id: WD8808D0A
+    b21cd23b297d4e1eb011040851c8e781:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W57827A11
+    e450e6286c294787ab160ada475ba98f:
+      title: Title
+      base_file: Title.txt
+      work_id: W5AA95572
+  chapter_to_tile:
+    CI: 'Chapter 1: Pramuditā'
+    CII: 'Chapter 3: Prabhākarī'
+    CIII: 'Chapter 6: Abhimukhī'
+    CIV: 'Chapter 11: buddhabhūmi'
+created_at: '2022-03-01T23:06:53.048979'
+last_modified_at: '2022-03-01T23:06:53.048987'
